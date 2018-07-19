@@ -1,0 +1,2 @@
+静态资源
+静态资源可以直接放在classpath:/static目录下面，使用localhost:8080/静态资源名称  即可访问

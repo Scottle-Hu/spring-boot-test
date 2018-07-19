@@ -10,6 +10,7 @@ import org.springframework.stereotype.Service;
  * @author huqj
  */
 @ConfigurationProperties(prefix = "student")
+@Component
 public class Student {
 
     private String name;

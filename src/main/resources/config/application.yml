@@ -1,0 +1,10 @@
+#测试使用yaml文件做配置
+
+student:
+  name: Scott
+  age: 12
+  grade: 14
+
+#比较与properties配置文件的优先级
+application:
+  name: Scott2
